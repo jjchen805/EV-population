@@ -6,4 +6,4 @@ The primary goal of this analysis is to support urban planning departments and e
 2. [WA population](https://catalog.data.gov/dataset/waofm-april-1-population-density-by-county-2000-to-present) (Data.gov)
 
 ## Tableau Dashboard
-https://public.tableau.com/app/profile/yu.shou.chen/viz/WAEVpopulationresearch/Dashboard1
+[![Dashboard-image](Dashboard-1.png)](https://public.tableau.com/app/profile/yu.shou.chen/viz/WAEVpopulationresearch/Dashboard1)
